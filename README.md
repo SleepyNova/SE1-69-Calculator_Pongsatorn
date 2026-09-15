@@ -4,10 +4,10 @@
 # ฟีเจอร์การทำงาน (Features)
 1. เครื่องคิดเลชนี้ทำงานผ่าน Commandline (Terminal)
 2. มีฟังก์ชั่นทางคณิตศาสตร์เบื้องต้นและขั้่นสูงดังนี้
-    2.1 + การบวก (Addition)
-    2.2 - การลบ (Subtraction)
-    2.3 * การคูณ (Multiplication)
-    2.4 / การหาร (Division)
+    - 2.1 + การบวก (Addition)
+    - 2.2 - การลบ (Subtraction)
+    - 2.3 * การคูณ (Multiplication)
+    - 2.4 / การหาร (Division)
 
 
     ###
